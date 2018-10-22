@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               The Objectified Programmer
+title:               Simon Taite
 tagline:             '.NET and web development'
 description:         'A husband, a father, a coder, a coffee addict'
-url:                 http://theobjectifiedprogrammer.com
+url:                 https://simontaite.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Simon Reynolds
-  url:               https://twitter.com/ImSimonReynolds
-  email:             simon@theobjectifiedprogrammer.com
+  name:              Simon Taite
+  url:               https://twitter.com/ImSimonTaite
+  email:             simon@simontaite.com
 
 # Custom vars
 version:             1.0.0
